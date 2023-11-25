@@ -8,6 +8,6 @@
 <body>
     <h1>Hello!</h1>
 <!-- Add an image -->
-    <img src="‪C:\Users\GK-S\Desktop\new\meubles VR.jpg" alt="meubles 3D">
+    <img src="‪VR.jpg" alt="meubles 3D">
 </body>
 </html>
